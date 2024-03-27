@@ -1,0 +1,36 @@
+{
+  "name": "BlackandWhiteTV",
+  "publisher": "moondevaa",
+  "displayName": "Black and White TV",
+  "description": "Black and White lagecy TV theme",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "classic","gray","black","dark","light","white","TV","old","lagecy","c","c++","material"
+    ,"atom","vs","code","monokaie","0","1","off","new","picture","channel"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AaBbdev29/Black-and-White-TV"
+  },
+  "icon": "icon.jpg", 
+  "theme": "dark",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Black and White TV",
+        "uiTheme": "vs-dark",
+        "path": "./themes/black-and-white-tv-color-theme.json"
+      }
+    ]
+  }
+  ,"scripts": {
+    "deploy": "vsce publish --yarn"
+  }
+}
