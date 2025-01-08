@@ -26,6 +26,11 @@ fixed most bugs ..
 
 # Screenshots
 
+<div align="center">
+    <h2>Python</h2>
+    <img src="https://github.com/AaBbdev29/Black-and-White-TV/blob/main/img/py.png?raw=true" alt="py">
+</div>
+###########
  <div align="center">
     <h2>Javascript</h2>
     <img src="https://github.com/AaBbdev29/Black-and-White-TV/blob/main/img/js.png?raw=true" alt="js">
